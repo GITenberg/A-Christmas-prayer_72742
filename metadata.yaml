@@ -1,0 +1,32 @@
+_repo: A-Christmas-prayer_72742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foley, James W. (James William)
+    alias: Foley, James William
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6991'
+    url: http://www.gutenberg.org/2009/agents/6991
+description: ''
+gutenberg_issued: '2024-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72742'
+language: en
+pgterms:marc905: 20231218114848foley
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: Bob Taylor, Aaron Adrignola, Maren Boyle and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bP. F. Volland & Co., $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas poetry'
+- !lcsh 'Prayer -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: A Christmas prayer
+url: http://www.gutenberg.org/ebooks/72742
